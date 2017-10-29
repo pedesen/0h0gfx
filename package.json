@@ -1,0 +1,17 @@
+{
+  "name": "0h0gfx",
+  "version": "0.0.1",
+  "description": "a zero hour, zero graphics audio game",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "author": "pedesen",
+  "license": "MIT",
+  "dependencies": {
+    "howler": "^2.0.5",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.3"
+  }
+}
